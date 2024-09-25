@@ -1,2 +1,2 @@
-gitea/act_runner:nightly-dind-rootless
+gitea/act_runner:latest-dind-rootless
 
